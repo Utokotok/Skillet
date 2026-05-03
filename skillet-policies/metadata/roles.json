@@ -1,0 +1,98 @@
+{
+  "tiers": [
+    {
+      "id": "junior",
+      "name": "Junior Developer",
+      "level": 1,
+      "description": "Entry-level developer learning fundamentals"
+    },
+    {
+      "id": "mid",
+      "name": "Mid-Level Developer",
+      "level": 2,
+      "description": "Experienced developer with proven capabilities"
+    },
+    {
+      "id": "senior",
+      "name": "Senior Developer",
+      "level": 3,
+      "description": "Expert developer with advanced skills and leadership"
+    },
+    {
+      "id": "lead",
+      "name": "Lead Developer",
+      "level": 4,
+      "description": "Technical leader guiding team architecture and decisions"
+    },
+    {
+      "id": "principal",
+      "name": "Principal Engineer",
+      "level": 5,
+      "description": "Strategic technical leader influencing organization-wide decisions"
+    }
+  ],
+  "roles": [
+    {
+      "id": "backend",
+      "name": "Backend Developer",
+      "description": "Develops server-side logic, APIs, and database interactions",
+      "categories": ["backend", "shared"]
+    },
+    {
+      "id": "frontend",
+      "name": "Frontend Developer",
+      "description": "Develops user interfaces and client-side applications",
+      "categories": ["frontend", "shared"]
+    },
+    {
+      "id": "fullstack",
+      "name": "Full Stack Developer",
+      "description": "Works on both frontend and backend development",
+      "categories": ["backend", "frontend", "shared"]
+    },
+    {
+      "id": "devops",
+      "name": "DevOps Engineer",
+      "description": "Manages infrastructure, CI/CD, and deployment processes",
+      "categories": ["devops", "shared"]
+    },
+    {
+      "id": "qa",
+      "name": "QA Engineer",
+      "description": "Ensures quality through testing and automation",
+      "categories": ["qa", "shared"]
+    }
+  ],
+  "categories": [
+    {
+      "id": "backend",
+      "name": "Backend",
+      "description": "Server-side development skills",
+      "icon": "🔧"
+    },
+    {
+      "id": "frontend",
+      "name": "Frontend",
+      "description": "Client-side development skills",
+      "icon": "🎨"
+    },
+    {
+      "id": "devops",
+      "name": "DevOps",
+      "description": "Infrastructure and deployment skills",
+      "icon": "🚀"
+    },
+    {
+      "id": "qa",
+      "name": "QA",
+      "description": "Testing and quality assurance skills",
+      "icon": "✅"
+    },
+    {
+      "id": "shared",
+      "name": "Shared",
+      "description": "Skills useful across all roles",
+      "icon": "🤝"
+    }
+  ]
+}

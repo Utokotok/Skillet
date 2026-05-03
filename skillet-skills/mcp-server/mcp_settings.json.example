@@ -1,0 +1,21 @@
+{
+  "mcpServers": {
+    "skillet-github": {
+      "command": "node",
+      "args": [
+        "C:/Users/YourUsername/path/to/skillet-skills/mcp-server/build/index.js"
+      ],
+      "env": {
+        "GITHUB_TOKEN": "your_github_token_here",
+        "GITHUB_OWNER": "your_github_username",
+        "POLICIES_REPO": "skillet-policies",
+        "SKILLS_REPO": "skillet-skills",
+        "DEFAULT_BRANCH": "main",
+        "METADATA_PATH": "metadata/skill-index.json"
+      },
+      "disabled": false,
+      "alwaysAllow": [],
+      "disabledTools": []
+    }
+  }
+}
