@@ -38,7 +38,7 @@ The MCP server needs a GitHub Personal Access Token to access your repositories.
 4. **Generate and Copy Token**
    - Click "Generate token" at the bottom
    - **IMPORTANT**: Copy the token immediately! You won't be able to see it again.
-   - The token will look like: `ghp_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx`
+   - The token will look like: `ghp_xxxxxxxxxx`
 
 ### Token Security
 
