@@ -857,7 +857,7 @@ I've analyzed the MCP server configuration and identified the hardcoded values t
  38 | 4. **Generate and Copy Token**
  39 |    - Click "Generate token" at the bottom
  40 |    - **IMPORTANT**: Copy the token immediately! You won't be able to see it again.
- 41 |    - The token will look like: `ghp_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx`
+ 41 |    - The token will look like: `ghp_xxxxxxxxxx`
  42 | 
  43 | ### Token Security
  44 | 
@@ -2049,7 +2049,7 @@ Now let me create the `.env.example` file with comprehensive documentation.
 #   4. Select scope: ✅ repo (Full control of private repositories)
 #   5. Click "Generate token" and copy it immediately
 #
-# Format: ghp_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+# Format: ghp_xxxxxxxxxx
 GITHUB_TOKEN=your_github_token_here
 
 # ----------------------------------------------------------------------------

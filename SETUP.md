@@ -115,7 +115,7 @@ The MCP (Model Context Protocol) Server enables Bob IDE to interact with GitHub 
 5. **Select scopes**:
    - ✅ **repo** (Full control of private repositories)
 6. **Generate token** and **copy it immediately** (you won't see it again!)
-   - Token format: `ghp_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx`
+   - Token format: `ghp_xxxxxxxxxx`
 
 ⚠️ **Security**: Never commit this token to git or share it publicly!
 
