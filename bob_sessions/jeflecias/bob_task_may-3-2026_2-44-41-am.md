@@ -4100,7 +4100,7 @@ I see you've created a `.env` file. Let me read it to verify the configuration i
 25 | #   5. Click "Generate token" and copy it immediately
 26 | #
 27 | # Format: ghp_xxxxxxxxxx
-28 | GITHUB_TOKEN=ghp_xxxxxxxxxx
+28 | GITHUB_TOKEN=ghp_xxxxxxxxxxxxxxxxxxxxxxx
 29 | 
 30 | # ----------------------------------------------------------------------------
 31 | # GitHub Repository Configuration (REQUIRED)
@@ -4190,7 +4190,7 @@ Perfect! Your `.env` file is configured correctly. Now I need to create the `mcp
         "C:/Users/avar1ce/Desktop/bobhack/skillet-skills/mcp-server/build/index.js"
       ],
       "env": {
-        "GITHUB_TOKEN": "ghp_xxxxxxxxxx",
+        "GITHUB_TOKEN": "ghp_nxxxxxxxxxxxxxxxxxxx",
         "GITHUB_OWNER": "IvanDaHackerz",
         "POLICIES_REPO": "skillet-policies",
         "SKILLS_REPO": "skillet-skills",
